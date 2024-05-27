@@ -1,0 +1,1 @@
+-Wall -Weffc++ -Wextra -Wconversion -Wsign-conversion -g -std=c++20
