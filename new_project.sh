@@ -8,5 +8,5 @@ fi
 
 for project_name in "$@"
 do
-    cp -r ./hello_cpp "$project_name"
+    cp -r ./template "$project_name"
 done
