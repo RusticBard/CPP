@@ -1,3 +1,3 @@
 #!/bin/bash
 
-g++ ./*.cpp -o  rooster.out && ./rooster.out @Flags
+g++ -std=c++20 ./*.cpp -o  rooster.out && ./rooster.out @Flags
